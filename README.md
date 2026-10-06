@@ -93,6 +93,68 @@ Calculated annual compounded returns and identified:
 for Bitcoin investors.
  
 ---
+
+## Key Takeaways
+
+### Bitcoin Exhibits High Volatility
+
+Rolling 30-day and 90-day volatility analysis shows that Bitcoin experiences significant fluctuations in risk over time.
+
+Key observation:
+
+- Short-term volatility spikes can exceed longer-term volatility periods.
+- Market risk is highly dynamic and changes rapidly during major price events.
+
+### Long-Term Returns Have Been Extraordinary
+
+A simulated €1 investment at the beginning of the dataset grew substantially over time through the power of compounding.
+
+Key observation:
+
+- Despite multiple severe crashes, long-term investors were rewarded by significant cumulative returns.
+
+### Major Single-Day Crashes Are Common
+
+Analysis of the worst performing trading days identified several periods where Bitcoin lost a large percentage of its value within a single day.
+
+Key observation:
+
+- Extreme downside events are a recurring characteristic of Bitcoin markets.
+
+### Trading Volume Only Partially Confirms Price Movements
+
+Price and volume movements were classified into four market states:
+
+- Strong Bullish
+- Weak Bullish
+- Strong Bearish
+- Weak Bearish
+
+Key observation:
+
+- Strong Bullish and Weak Bullish signals occur with almost identical frequency.
+- Strong Bearish and Weak Bearish signals are also relatively balanced.
+- Volume does not consistently confirm Bitcoin price movements.
+
+This suggests that price increases and declines often occur without corresponding increases in trading activity.
+
+### Market Behaviour Is Not Strongly Dominated by Any Single State
+
+Volume-price classification produced a relatively balanced distribution of market states.
+
+Key observation:
+
+- Bitcoin frequently alternates between bullish and bearish conditions.
+- No single market regime overwhelmingly dominates the dataset.
+
+### Bitcoin's Best and Worst Years Differ Dramatically
+
+Annual compounded returns vary significantly across years.
+
+Key observation:
+
+- Bitcoin can deliver exceptional positive performance during favorable periods.
+- The asset can also experience substantial annual drawdowns, highlighting its speculative nature.
  
 ## Interactive Dashboard
  
@@ -107,7 +169,6 @@ Dashboard features include:
 - Normal vs logarithmic price comparison
  
 ---
- 
  
 ## How to Run the Dashboard
  
